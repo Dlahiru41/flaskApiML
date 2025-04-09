@@ -1,0 +1,6 @@
+{
+  "error": {
+    "code": 412,
+    "message": "A required service account is missing necessary permissions. Please resolve by visiting the Storage page of the Firebase Console and re-linking your Firebase bucket or see this FAQ for more info: https://firebase.google.com/support/faq#storage-accounts. If you recently made changes to your service account, please wait a few minutes for the changes to propagate through our systems and try again."
+  }
+}
